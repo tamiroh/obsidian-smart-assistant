@@ -1,0 +1,6 @@
+.husky/pre-commit
+.prettierignore
+.editorconfig
+.eslintignore
+.gitignore
+.npmrc

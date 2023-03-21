@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-smart-assistant",
+	"name": "Smart Assistant",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "",
+	"author": "tamiroh",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
