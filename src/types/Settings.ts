@@ -1,3 +1,3 @@
 export type Settings = {
-	mySetting: string;
+	apiKey: string;
 };
