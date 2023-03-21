@@ -1,7 +1,7 @@
 import { Editor, Notice, Plugin } from "obsidian";
 import { SettingTab } from "./settingTab";
 import { Settings } from "./types/Settings";
-import { DEFAULT_SETTINGS } from "./constants";
+import { DEFAULT_SETTINGS } from "./constants/defaultSettings";
 
 export default class MyPlugin extends Plugin {
 	settings: Settings;
