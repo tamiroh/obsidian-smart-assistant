@@ -8,9 +8,6 @@ export default class MyPlugin extends Plugin {
 
 	override async onload() {
 		await this.loadSettings();
-		this.addRibbonIcon("dice", "Sample Plugin", () => {
-			new Notice("This is a notice!");
-		});
 		this.addStatusBarItem().setText("Status Bar Text");
 		this.addCommands();
 		this.addSettingTab(new SettingTab(this.app, this));
